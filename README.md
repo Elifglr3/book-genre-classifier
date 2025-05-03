@@ -17,5 +17,5 @@ This Python project takes a list of book titles and automatically classifies the
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/book-genre-classifier.git
+   git clone https://github.com/elifglr3/book-genre-classifier.git
    cd book-genre-classifier
